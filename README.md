@@ -52,13 +52,13 @@ PANDAS: In computer programming, pandas is a software library written for the Py
 
 ## ANALYSIS
 ### 1.	NO OF COLLEGES WITH ALL THE DATA AS MENTIONED<br /> <br />
-   <img src="https://github.com/Bhoomika2820/Python-Web-Scrapping/blob/master/df_info().PNG" width="80%"/> <br />
+   <img src="https://github.com/flurryunicorn/Python-Web-Scrapping/blob/master/df_info().PNG" width="80%"/> <br />
 ### 2.	NO OF COLLEGES PER STATE<br /><br />
-   <img src="https://github.com/Bhoomika2820/Python-Web-Scrapping/blob/master/no_of_colleges_per_state.PNG" width="80%"/><br />
+   <img src="https://github.com/flurryunicorn/Python-Web-Scrapping/blob/master/no_of_colleges_per_state.PNG" width="80%"/><br />
 ### 3.	NO OF DISTRICT IN ONE STATE CONTAINING COLLEGES <br /><br />
-   <img src="https://github.com/Bhoomika2820/Python-Web-Scrapping/blob/master/no_of_district_per_state.PNG" width="80%"/><br />
+   <img src="https://github.com/flurryunicorn/Python-Web-Scrapping/blob/master/no_of_district_per_state.PNG" width="80%"/><br />
 ### 4. COMBINED ANALYSIS<br /><br />
-   <img src="https://github.com/Bhoomika2820/Python-Web-Scrapping/blob/master/analysis.PNG" width="80%"/><br />
+   <img src="https://github.com/flurryunicorn/Python-Web-Scrapping/blob/master/analysis.PNG" width="80%"/><br />
 
 ## FUTURE SCOPE
 Since the websites changes dynamically some code might not work in future when the structure of the website changes .so in future we aim to rebuild this scrapper in such a way that it can scrap data when sites have changed partially or fully. For the time span our code works best in the moment and in future also this information will help company to expand their business and grow or in choosing the colleges for fresher effectively.
